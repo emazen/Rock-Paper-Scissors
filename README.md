@@ -1,2 +1,2 @@
 # Rock-Paper-Scissors
-A simple rock paper scissors gamehttps://github.com/settings/repositories
+A simple rock paper scissors game against computer
