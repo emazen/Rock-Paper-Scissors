@@ -19,6 +19,9 @@ running = True
 # Main game
 while running:
     user_input = input("Type Rock, Paper or Scissors: ")
+    
+    # Printing this just to look more organized
+    print("************************************")
 
     opponent = random.choice(rps)
 
